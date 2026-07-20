@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
