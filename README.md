@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0283-move-zeroes) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
