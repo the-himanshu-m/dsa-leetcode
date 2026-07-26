@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [1480-running-sum-of-1d-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -66,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -87,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
