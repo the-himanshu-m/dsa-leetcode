@@ -1,25 +1,19 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        ArrayList<Integer> ans = new ArrayList<>();
-
         sort(nums);
+
+        int[] ans = new int[2];
 
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] != i + 1) {
-                ans.add(nums[i]);
-                ans.add(i + 1);
+                ans[0] = nums[i];
+                ans[1] = i + 1;
 
-                break;
+                return ans;
             }
         }
 
-        int[] answer = new int[2];
-
-        for (int i = 0; i < ans.size(); i++) {
-            answer[i] = ans.get(i);
-        }
-
-        return answer;
+        return ans;
     }
 
     private void sort (int[] nums) {
