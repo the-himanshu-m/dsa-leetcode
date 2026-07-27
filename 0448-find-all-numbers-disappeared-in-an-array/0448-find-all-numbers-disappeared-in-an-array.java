@@ -19,7 +19,7 @@ class Solution {
         while (start < nums.length) {
             int correct = nums[start] - 1;
 
-            if (correct > -1 && nums[correct] != nums[start]) {
+            if (nums[correct] != nums[start]) {
                 swap (nums, correct, start);
             } else {
                 start++;
