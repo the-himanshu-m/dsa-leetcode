@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
