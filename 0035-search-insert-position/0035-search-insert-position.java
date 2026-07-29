@@ -15,8 +15,6 @@ class Solution {
             }
         }
 
-        if (start > end) return start;
-
-        return -1;
+        return start;
     }
 }
