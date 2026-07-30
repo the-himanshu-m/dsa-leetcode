@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
