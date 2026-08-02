@@ -1,18 +1,20 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        if (nums.length == 1) return;
-        int write = 0;
+        int read = 0, write = 0;
 
-        for (int read = 0; read < nums.length; read++) {
+        while (read < nums.length) {
             if (nums[read] != 0) {
-                nums[write] = nums[read];
+                swap (nums, read, write);
                 write++;
             }
-        }
 
-        while (write < nums.length) {
-            nums[write] = 0;
-            write++;
+            read++;
         }
+    }
+
+    private void swap (int[] nums, int start, int end) {
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
     }
 }
