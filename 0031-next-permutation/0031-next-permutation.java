@@ -1,29 +1,24 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int pivot = -1, start = nums.length - 1;;
+        int pivot = -1;
 
-        while (start > 0) {
-            if (nums[start] > nums[start - 1]) {
-                pivot = start - 1;
+        for (int i = nums.length - 1; i > 0; i--) {
+            if (nums[i - 1] < nums[i]) {
+                pivot = i - 1;
                 break;
             }
-            start--;
         }
 
         if (pivot == -1) {
-            reverse(nums, 0);
+            reverse (nums, 0);
             return;
         }
 
-        start = nums.length - 1;
-
-        while (start > pivot) {
-            if (nums[start] > nums[pivot]) {
-                swap (nums, start, pivot);
+        for (int i = nums.length - 1; i > pivot; i--) {
+            if (nums[i] > nums[pivot]) {
+                swap (nums, i, pivot);
                 break;
             }
-
-            start--;
         }
 
         reverse (nums, pivot + 1);
