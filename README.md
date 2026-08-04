@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
