@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Heap (Priority Queue)
