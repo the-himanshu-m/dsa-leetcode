@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0031-next-permutation](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2460-apply-operations-to-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -159,8 +161,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
