@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0278-first-bad-version](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
