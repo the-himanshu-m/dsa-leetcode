@@ -5,8 +5,8 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         int longest = Integer.MIN_VALUE, start = nums[0];
 
-        for (int i = 0; i < nums.length; i++) {
-            set.add(nums[i]);
+        for (int num : nums) {
+            set.add(num);
         }
 
         int current = 0, length = 1;
