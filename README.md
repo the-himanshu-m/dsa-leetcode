@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0645-set-mismatch) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
