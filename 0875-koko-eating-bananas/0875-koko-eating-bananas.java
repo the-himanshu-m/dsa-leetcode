@@ -1,10 +1,9 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int largest = 1, sum = 0;
+        int largest = 1;
 
-        for (int i = 0; i < piles.length; i++) {
-            largest = Math.max(largest, piles[i]);
-            sum += piles[i];
+        for (int pile : piles) {
+            largest = Math.max(largest, pile);
         }
 
         int start = 1, end = largest;
@@ -23,10 +22,10 @@ class Solution {
         return ans;
     }
 
-    private boolean kokoCanDoIt (int[] piles, int ans, int h) {
+    private boolean kokoCanDoIt (int[] piles, int speed, int h) {
         int sum = 0;
         for (int i = 0; i < piles.length; i++) {
-            sum += (int) Math.ceil((double)piles[i]/ans);
+            sum += (int) Math.ceil((double)piles[i]/speed);
 
             if (sum > h) return false;
         }
