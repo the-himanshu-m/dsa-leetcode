@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
