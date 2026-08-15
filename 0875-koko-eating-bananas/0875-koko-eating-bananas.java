@@ -26,11 +26,7 @@ class Solution {
     private boolean kokoCanDoIt (int[] piles, int ans, int h) {
         int sum = 0;
         for (int i = 0; i < piles.length; i++) {
-            if (piles[i] > ans) {
-                sum += (int) Math.ceil((double)piles[i]/ans);
-            } else {
-                sum++;
-            }
+            sum += (int) Math.ceil((double)piles[i]/ans);
 
             if (sum > h) return false;
         }
