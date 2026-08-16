@@ -10,7 +10,7 @@ class Solution {
 
         while (start <= end) {
             int mid = start + (end - start)/2;
-
+            
             if (bouquets(bloomDay, mid, m, k)) {
                 end = mid - 1;
             } else {
