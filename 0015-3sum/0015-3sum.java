@@ -1,66 +1,32 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        int n = nums.length;
+        // Use a Set of Lists to automatically filter out duplicate triplets
+        Set<List<Integer>> res = new HashSet<>();
+        // Keeps track of elements we have already processed as the first element 'nums[i]'
+        Set<Integer> dups1 = new HashSet<>();
         
-        // 1. Sort the array
-        Arrays.sort(nums);
-        
-        for (int i = 0; i < n - 2; i++) {
-            // Pruning 1: If the smallest possible element is greater than 0, 
-            // no three elements can sum up to 0. Break early.
-            if (nums[i] > 0) {
-                break;
-            }
+        for (int i = 0; i < nums.length; i++) {
+            // Skip if we have already looked for pairs using this exact starting number
+            if (!dups1.add(nums[i])) continue;
             
-            // Skip duplicates for the first element
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
+            // This inner set acts as our 2Sum lookup map for the remaining elements
+            Set<Integer> seen = new HashSet<>();
             
-            // Pruning 2: If nums[i] combined with the two smallest remaining elements 
-            // is greater than 0, this i is already too big. Break early.
-            if (nums[i] + nums[i + 1] + nums[i + 2] > 0) {
-                break;
-            }
-            
-            // Pruning 3: If nums[i] combined with the two absolute largest elements 
-            // in the array is less than 0, this i is too small. Move to the next i.
-            if (nums[i] + nums[n - 2] + nums[n - 1] < 0) {
-                continue;
-            }
-            
-            // Standard optimized two-pointer approach
-            int start = i + 1;
-            int end = n - 1;
-            
-            while (start < end) {
-                int sum = nums[i] + nums[start] + nums[end];
+            for (int j = i + 1; j < nums.length; j++) {
+                int complement = -nums[i] - nums[j];
                 
-                if (sum < 0) {
-                    start++;
-                } else if (sum > 0) {
-                    end--;
-                } else {
-                    ans.add(Arrays.asList(nums[i], nums[start], nums[end]));
-                    
-                    // Skip duplicates for start and end
-                    while (start < end && nums[start] == nums[start + 1]) {
-                        start++;
-                    }
-                    while (start < end && nums[end] == nums[end - 1]) {
-                        end--;
-                    }
-                    
-                    start++;
-                    end--;
+                if (seen.contains(complement)) {
+                    List<Integer> triplet = Arrays.asList(nums[i], nums[j], complement);
+                    // Sorting the individual triplet is mandatory so the HashSet 
+                    // recognizes [-1, 0, 1] and [0, -1, 1] as identical items.
+                    Collections.sort(triplet);
+                    res.add(triplet);
                 }
+                seen.add(nums[j]);
             }
         }
-        return ans;
+        return new ArrayList<>(res);
     }
 }
