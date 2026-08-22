@@ -3,20 +3,15 @@ class Solution {
         if (nums.length == 0) return 0;
 
         HashSet<Integer> set = new HashSet<>();
-        int longest = Integer.MIN_VALUE, start = nums[0];
-
         for (int num : nums) {
             set.add(num);
         }
 
-        int current = 0, length = 1;
+        int current = 0, length = 1, longest = 0;
 
         for (int num : set) {
-
-            if (!set.contains(num - 1)) start = num;
-
-            if (num == start) {
-                current = start;
+            if (!set.contains(num - 1)) {
+                current = num;
                 length = 1;
 
                 while (set.contains(current + 1)) {
