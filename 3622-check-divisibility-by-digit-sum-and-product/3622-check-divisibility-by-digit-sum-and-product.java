@@ -1,12 +1,9 @@
 class Solution {
     public boolean checkDivisibility(int n) {
-        return n % digitCal(n) == 0;
-    }
-
-    private int digitCal (int n) {
-        if (n < 10) return 2 * n;
         int sum = 0;
         long product = 1;
+        int num = n;
+        
         while (n != 0) {
             int rem = n % 10;
             sum += rem;
@@ -14,6 +11,6 @@ class Solution {
             n /= 10;
         }
 
-        return sum + (int)product;
+        return num % (sum + (int)product) == 0;
     }
 }
