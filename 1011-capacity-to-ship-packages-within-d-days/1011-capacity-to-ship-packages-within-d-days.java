@@ -24,11 +24,11 @@ class Solution {
         int days = 1, weight = 0;
 
         for (int i = 0; i < nums.length; i++) {
-            if (weight + nums[i] <= ans) {
-                weight += nums[i];
-            } else {
+            if (weight + nums[i] > ans) {
                 weight = nums[i];
                 days++;
+            } else {
+                weight += nums[i];
             }
         }
 
