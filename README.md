@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
