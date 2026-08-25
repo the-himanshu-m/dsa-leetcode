@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
 | [2460-apply-operations-to-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
