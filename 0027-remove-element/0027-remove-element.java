@@ -8,7 +8,6 @@ class Solution {
                 write++;
             }
         }
-
         return write;
     }
 }
