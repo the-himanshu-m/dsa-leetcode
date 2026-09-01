@@ -8,7 +8,7 @@ class Solution {
             for (int j = i + 1; j < nums.length - 1; j++) {
                 if (j > i + 1 && nums[j] == nums[j - 1]) continue;
 
-                int start = j + 1, end = nums.length - 1;
+                int start =j + 1, end = nums.length - 1;
                 while (start < end) {
                     long currSum = (long)nums[i] + (long)nums[j] + (long)nums[start] + (long)nums[end];
 
