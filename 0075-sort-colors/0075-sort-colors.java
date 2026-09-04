@@ -4,13 +4,13 @@ class Solution {
 
         while (mid <= end) {
             if (nums[mid] == 2) {
-                swap (nums, mid, end);
+                swap(nums, mid, end);
                 end--;
-            } else if (nums[mid] == 0) {
-                swap (nums, mid, start);
+            } else if (nums[mid] == 1) {
                 mid++;
-                start++;
             } else {
+                swap(nums, mid, start);
+                start++;
                 mid++;
             }
         }
