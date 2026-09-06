@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
+| [2169-count-operations-to-obtain-zero](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Divide and Conquer
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Matrix
 |  |
