@@ -3,7 +3,9 @@ class Solution {
         sort(nums);
 
         for (int i = 0; i < nums.length; i++) {
-            if (i != nums[i]) return i;
+            if (nums[i] != i) {
+                return i;
+            }
         }
 
         return nums.length;
@@ -11,11 +13,12 @@ class Solution {
 
     private void sort(int[] nums) {
         int start = 0;
+
         while (start < nums.length) {
             int correct = nums[start];
 
-            if (correct < nums.length && nums[correct] != nums[start]) {
-                swap(nums, correct, start);
+            if (correct != nums.length && nums[start] != nums[correct]) {
+                swap(nums, start, correct);
             } else {
                 start++;
             }
