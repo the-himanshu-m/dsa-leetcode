@@ -1,17 +1,16 @@
 class Solution {
     public int maxProduct(int[] nums) {
+        int largest = Integer.MIN_VALUE, secLargest = Integer.MIN_VALUE;
 
-        int largest = Integer.MIN_VALUE, sLargest = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] > largest) {
-                sLargest = largest;
-                largest = nums[i];
-            } else if (nums[i] > sLargest) {
-                sLargest = nums[i];
+        for (int num : nums) {
+            if (num >= largest) {
+                secLargest = largest;
+                largest = num;
+            } else if (num > secLargest) {
+                secLargest = num;
             }
         }
 
-            return (largest - 1) * (sLargest - 1);
+        return (largest - 1) * (secLargest - 1);
     }
 }
