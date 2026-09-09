@@ -2,26 +2,28 @@ class Solution {
     public void nextPermutation(int[] nums) {
         int pivot = -1;
 
-        for (int i = nums.length - 1; i > 0; i--) {
-            if (nums[i - 1] < nums[i]) {
-                pivot = i - 1;
+        for (int i = nums.length - 2; i >= 0; i--) {
+            if (nums[i] < nums[i + 1]) {
+                pivot = i;
                 break;
             }
         }
 
         if (pivot == -1) {
-            reverse (nums, 0);
+            reverse(nums, 0);
             return;
         }
 
-        for (int i = nums.length - 1; i > pivot; i--) {
+        // int next = -1;
+        for (int i = nums.length - 1; i >= 0; i--) {
             if (nums[i] > nums[pivot]) {
-                swap (nums, i, pivot);
+                // next = i;
+                swap(nums, i, pivot);
                 break;
             }
         }
 
-        reverse (nums, pivot + 1);
+        reverse(nums, pivot + 1);
     }
 
     private void swap (int[] nums, int start, int end) {
