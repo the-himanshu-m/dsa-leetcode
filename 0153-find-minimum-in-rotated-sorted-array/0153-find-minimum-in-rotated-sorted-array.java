@@ -5,8 +5,8 @@ class Solution {
         while (start <= end) {
             int mid = start + (end - start)/2;
             smallest = Math.min(smallest, nums[mid]);
-            
-            if (nums[mid] <= nums[end]) {
+
+            if (nums[mid] < nums[end]) {
                 end = mid - 1;
             } else {
                 start = mid + 1;
