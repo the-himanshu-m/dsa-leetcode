@@ -24,6 +24,6 @@ class Solution {
             }
         }
 
-        return false;
+        return (start < nums.length && nums[start] == target);
     }
 }
