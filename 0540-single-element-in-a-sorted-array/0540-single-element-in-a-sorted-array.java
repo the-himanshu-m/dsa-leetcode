@@ -4,12 +4,12 @@ class Solution {
 
         while (start < end) {
             int mid = start + (end - start)/2;
-            mid = (mid % 2 == 0) ? mid : mid - 1;
+            if (mid % 2 != 0) mid--;
 
-            if (nums[mid] != nums[mid + 1]) {
-                end = mid;
-            } else {
+            if (nums[mid] == nums[mid + 1]) {
                 start = mid + 2;
+            } else {
+                end = mid;
             }
         }
 
