@@ -12,7 +12,7 @@ class Solution {
 
                 if (sum < 0) {
                     start++;
-                } else if (sum > 0) {
+                } else if (sum > 0){
                     end--;
                 } else {
                     ans.add(Arrays.asList(nums[start], nums[end], nums[i]));
