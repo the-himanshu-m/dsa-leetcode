@@ -2,27 +2,23 @@ import java.util.Arrays;
 import java.util.ArrayList;
 
 class Solution {
-    public int[][] merge(int[][] arr) {
+    public int[][] merge(int[][] nums) {
 
-        if (arr.length == 0) return new int[0][];
-
-        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
-
-        int first = arr[0][0];
-        int sec = arr[0][1];
+        Arrays.sort(nums, (a, b) -> Integer.compare(a[0], b[0]));
         ArrayList<int[]> ans = new ArrayList<>();
 
-        for (int i = 1; i < arr.length; i++) {
-            if (sec >= arr[i][0]) {
-                sec = Math.max(sec, arr[i][1]);
+        int first = nums[0][0], second = nums[0][1];
+        for (int i = 1; i < nums.length; i++) {
+            if (second >= nums[i][0]) {
+                second = Math.max(second, nums[i][1]);
             } else {
-                ans.add(new int[]{first, sec});
-                first = arr[i][0];
-                sec = arr[i][1];
+                ans.add(new int[] {first, second});
+                first = nums[i][0];
+                second = nums[i][1];
             }
         }
 
-        ans.add(new int[]{first, sec});
+        ans.add(new int[] {first, second});
 
         return ans.toArray(new int[ans.size()][]);
     }
