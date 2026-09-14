@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
