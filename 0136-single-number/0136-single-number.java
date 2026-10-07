@@ -4,6 +4,7 @@ class Solution {
         for (int num = 1; num < nums.length; num++) {
             singleNumber = singleNumber ^ nums[num];
         }
+
         return singleNumber;
     }
 }
