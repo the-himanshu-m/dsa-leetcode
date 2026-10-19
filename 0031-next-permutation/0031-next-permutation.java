@@ -22,7 +22,6 @@ class Solution {
                 break;
             }
         }
-
         reverse(nums, pivot + 1);
     }
 
