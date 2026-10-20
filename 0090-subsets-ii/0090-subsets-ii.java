@@ -7,15 +7,21 @@ class Solution {
     }
 
     private List<List<Integer>> helper (int[] nums, int index, List<List<Integer>> ans, List<Integer> current) {
-        ans.add(new ArrayList<>(current));
-            
-        for (int i = index; i < nums.length; i++) {
-            if (i > index && nums[i] == nums[i - 1]) continue;
-
-            current.add(nums[i]);
-            helper(nums, i + 1, ans, current);
-            current.removeLast();
+        if (index == nums.length) {
+            ans.add(new ArrayList<>(current));
+            return ans;
         }
+            
+        current.add(nums[index]);
+        helper(nums, index + 1, ans, current);
+        current.removeLast();
+
+        int idx = index + 1;
+        while (idx < nums.length && nums[idx] == nums[idx - 1]) {
+            idx++;
+        }
+
+        helper(nums, idx, ans, current);
 
         return ans;
     }
