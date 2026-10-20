@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0041-first-missing-positive) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0046-permutations) |
@@ -307,6 +311,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
