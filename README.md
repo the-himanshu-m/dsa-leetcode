@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0367-valid-perfect-square](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2169-count-operations-to-obtain-zero](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -328,4 +330,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0509-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
