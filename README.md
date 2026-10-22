@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2460-apply-operations-to-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3731-find-missing-elements](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
+| [2596-check-knight-tour-configuration](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |
 | ------- |
@@ -350,8 +353,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
+| [2596-check-knight-tour-configuration](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
+| [2596-check-knight-tour-configuration](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
