@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0090-subsets-ii) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0079-word-search) |
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
 ## Pigeonhole Principle
 |  |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0052-n-queens-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
