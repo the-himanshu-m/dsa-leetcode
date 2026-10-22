@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0238-product-of-array-except-self) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0037-sudoku-solver](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -343,4 +346,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1025-divisor-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
