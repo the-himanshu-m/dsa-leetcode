@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
