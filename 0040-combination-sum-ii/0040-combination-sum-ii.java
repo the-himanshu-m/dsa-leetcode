@@ -13,13 +13,10 @@ class Solution {
         }
 
         for (int i = index; i < nums.length; i++) {
-
             if (i > index && nums[i] == nums[i - 1]) continue;
-
             current.add(nums[i]);
             helper(nums, i + 1, target - nums[i], current, ans);
             current.removeLast();
-            // helper(nums, i + 1, target - nums[i], current, ans);
         }
     }
 }
