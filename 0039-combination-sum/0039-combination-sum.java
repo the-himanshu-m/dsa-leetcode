@@ -15,6 +15,7 @@ class Solution {
         if (index >= nums.length || target < 0) return;
 
         current.add(nums[index]);
+        // helper(nums, target - nums[index], index + 1, current, ans);
         helper(nums, target - nums[index], index, current, ans);
         current.removeLast();
         helper(nums, target, index + 1, current, ans);
