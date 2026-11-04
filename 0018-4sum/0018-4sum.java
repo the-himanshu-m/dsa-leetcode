@@ -9,7 +9,6 @@ class Solution {
                 if (j > i + 1 && nums[j] == nums[j - 1]) continue;
 
                 int start = j + 1, end = nums.length - 1;
-
                 while (start < end) {
                     long currSum = (long)nums[i] + (long)nums[j] + (long)nums[start] + (long)nums[end];
 
@@ -33,7 +32,6 @@ class Solution {
                 }
             }
         }
-
 
         return ans;
     }
