@@ -6,8 +6,8 @@ class Solution {
 
         for (int num : nums) {
             int tempMax = maxProduct;
-            maxProduct = Math.max(Math.max(minProduct * num, maxProduct * num), num);
-            minProduct = Math.min(Math.min(num * minProduct, tempMax * num), num);
+            maxProduct = Math.max(Math.max(maxProduct * num, minProduct * num), num);
+            minProduct = Math.min(Math.min(tempMax * num, minProduct * num), num);
 
             max = Math.max(max, maxProduct);
         }
