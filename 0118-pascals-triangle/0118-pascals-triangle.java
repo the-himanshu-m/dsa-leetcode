@@ -1,27 +1,25 @@
 class Solution {
+    public List<Integer> row(int row) {
+        List<Integer> current = new ArrayList<>();
+        int ans = 1;
+        current.add(ans);
+
+        for (int col = 1; col < row; col++) {
+            ans *= (row - col);
+            ans /= col;
+            current.add(ans);
+        }
+        
+        return current;
+    }
+
     public List<List<Integer>> generate(int num) {
         List<List<Integer>> ans = new ArrayList<>();
-        for (int row = 0; row < num; row++) {
-            List<Integer> rowNums = new ArrayList<>();
-            for (int col = 0; col <= row; col++) {
-                rowNums.add(combinations(row, col));
-            }
-            ans.add(rowNums);
+
+        for (int i = 1; i <= num; i++) {
+            ans.add(new ArrayList<>(row(i)));
         }
 
         return ans;
-    }
-
-    private int combinations (int row, int col) {
-        if (col > row/2) {
-            col = row - col;
-        }
-        long ans = 1;
-        for (int i = 0; i < col; i++) {
-            ans *= row - i;
-            ans /= i + 1;
-        }
-
-        return (int)ans;
     }
 }
