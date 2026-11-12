@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -391,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0229-majority-element-ii) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
