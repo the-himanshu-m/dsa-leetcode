@@ -14,7 +14,6 @@ class Solution {
         ListNode prev = head;
 
         int carry = 0;
-        int i = 0;
         while (l1 != null || l2 != null || carry == 1) {
             int sum = 0;
             if (l1 != null) {
