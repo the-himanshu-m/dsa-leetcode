@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
