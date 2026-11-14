@@ -23,7 +23,7 @@ class Solution {
         ListNode result = l1;
         while (l1 != null && l2 != null) {
             ListNode temp = l1;
-            while (l1 != null && l2 != null && l1.val <= l2.val) {
+            while (l1 != null && l1.val <= l2.val) {
                 temp = l1;
                 l1 = l1.next;
             }
