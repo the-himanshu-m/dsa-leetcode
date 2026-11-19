@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0079-word-search](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
+| [1021-remove-outermost-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
