@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0412-fizz-buzz](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0412-fizz-buzz) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/the-himanshu-m/dsa-leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
