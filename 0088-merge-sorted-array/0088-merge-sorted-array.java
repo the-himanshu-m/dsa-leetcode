@@ -3,12 +3,12 @@ class Solution {
         int x = m - 1, y = n - 1, z = m + n - 1;
 
         while (x >= 0 && y >= 0) {
-            if (nums1[x] >= nums2[y]) {
-                nums1[z--] = nums1[x--];
-            } else {
+            if (nums1[x] <= nums2[y]) {
                 nums1[z--] = nums2[y--];
+            } else {
+                nums1[z--] = nums1[x--];
             }
-        }
+        }        
 
         while (x >= 0) {
             nums1[z--] = nums1[x--];
